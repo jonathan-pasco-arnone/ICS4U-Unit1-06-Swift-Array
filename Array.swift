@@ -2,7 +2,7 @@
 * This is a program that calculates mean, median and mode
 * after reading in a text file into an array.
 *
-* @author  Felipe Garcia Affonso
+* @author  Jonathan Pasco-Arnone
 * @version 1.0
 * @since   2021-11-26
 */
